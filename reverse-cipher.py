@@ -1,6 +1,6 @@
 # Reverse Cipher
 
-# message = 'Three cna keep a secret, if two of them are dead.'
+# message = 'Three can keep a secret, if two of them are dead.'
 message = input('Enter message: ')
 translated = ''
 
